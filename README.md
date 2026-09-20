@@ -354,10 +354,10 @@ backend/
 Recommended submission screenshots:
 
 1. Login page.![For Login](image.png)
-2. Patient dashboard with submitted claims.
-3. Patient claim details and document link.
-4. Insurer dashboard with filters and summary counts.
-5. Insurer claim review panel.
-6. Updated patient claim after insurer approval or rejection.
+2. Patient dashboard with submitted claims.![Patient Dashboard](image-1.png)
+3. Patient claim details and document link.![](image-2.png)
+4. Insurer dashboard with filters and summary counts.![Insurer Dashboard](image-3.png)
+5. Insurer claim review panel.![Insurar Claim Review](image-4.png)
+6. Updated patient claim after insurer approval or rejection.![Updated Claim](image-5.png)
 
 The live deployment and screenshots demonstrate the main assessment flows. Add a short walkthrough video URL here if the submission portal requires one.
