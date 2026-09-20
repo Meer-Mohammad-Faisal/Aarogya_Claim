@@ -4,9 +4,7 @@
 
 Live application:
 
-- Frontend: <https://frontend-brown-delta-88.vercel.app>
-- Backend API: <https://aarogya-claim.onrender.com>
-- API health check: <https://aarogya-claim.onrender.com/api/health>
+- LIVE LINK: <https://frontend-brown-delta-88.vercel.app>
 - GitHub repository: <https://github.com/Meer-Mohammad-Faisal/Aarogya_Claim>
 
 Demo credentials:
